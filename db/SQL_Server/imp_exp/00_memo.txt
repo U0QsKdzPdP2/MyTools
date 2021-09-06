@@ -1,0 +1,9 @@
+■使い方
+
+1:「mk_table_def_csv.sql」を使用し「table_def.csv」を作成する
+
+2:「makeCmd.xlsx」を埋める
+
+3:「mkXML Cmd」列の内容を「makeFormatXML.bat」へコピーする
+
+4:「makeFormatXML.bat」を実行する（formatフォルダにxmlファイルが作成される）
